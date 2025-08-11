@@ -6,7 +6,7 @@
   <link href="https://u-4862.github.io/atom.xml" rel="self"/>
   
   <link href="https://u-4862.github.io/"/>
-  <updated>2025-08-10T21:01:33.570Z</updated>
+  <updated>2025-08-11T11:12:52.581Z</updated>
   <id>https://u-4862.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://u-4862.github.io/2025/08/11/Makeups/"/>
     <id>https://u-4862.github.io/2025/08/11/Makeups/</id>
     <published>2025-08-10T20:46:58.000Z</published>
-    <updated>2025-08-10T21:01:33.570Z</updated>
+    <updated>2025-08-11T11:12:52.581Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="针对Home-Achieve-404-问题"><a href="#针对Home-Achieve-404-问题" class="headerlink" title="针对Home Achieve 404 问题"></a>针对Home Achieve 404 问题</h1><h2 id="config-yml"><a href="#config-yml" class="headerlink" title="_config.yml"></a>_config.yml</h2><p>url设置为: <a href="https://u-4862.github.io/">https://u-4862.github.io</a></p><h2 id="themes-next-config"><a href="#themes-next-config" class="headerlink" title="themes&#x2F;next&#x2F;_config"></a>themes&#x2F;next&#x2F;_config</h2><p>menu:<br>  home: &#x2F; &#x3D;&#x3D;|| home&#x3D;&#x3D; &lt;&#x3D;&#x3D; 删掉<br>  #about: &#x2F;about&#x2F; || user<br>  #tags: &#x2F;tags&#x2F; || tags<br>  #categories: &#x2F;categories&#x2F; || th<br>  archives: &#x2F;archives&#x2F; &#x3D;&#x3D;|| archives&#x3D;&#x3D; &lt;&#x3D;&#x3D; 删掉<br>  #schedule: &#x2F;schedule&#x2F; || calendar<br>  #sitemap: &#x2F;sitemap.xml || sitemap<br>  #commonweal: &#x2F;404&#x2F; || heartbeat</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="针对Home-Achieve-404-问题"><a href="#针对Home-Achieve-404-问题" class="headerlink" title="针对Home Achieve 404 问题"></a>针对Home Achieve 404 问题</h1><h2 id="config-yml"><a href="#config-yml" class="headerlink" title="_config.yml"></a>_config.yml</h2><p>url设置为: <a href="https://u-4862.github.io/">https://u-4862.github.io</a></p><h2 id="themes-next-config"><a href="#themes-next-config" class="headerlink" title="themes&#x2F;next&#x2F;_config"></a>themes&#x2F;next&#x2F;_config</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  home: / || home</span><br><span class="line">  #about: /about/ || user</span><br><span class="line">  #tags: /tags/ || tags</span><br><span class="line">  #categories: /categories/ || th</span><br><span class="line">  archives: /archives/ || archives</span><br><span class="line">  #schedule: /schedule/ || calendar</span><br><span class="line">  #sitemap: /sitemap.xml || sitemap</span><br><span class="line">  #commonweal: /404/ || heartbeat</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>  如上显示的配置下会遇到%20 404 问题<br>  须将&#x2F; 与 || 间的空格删去<br>  如下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">home: / || home</span><br><span class="line">#about: /about/ || user</span><br><span class="line">#tags: /tags/ || tags</span><br><span class="line">#categories: /categories/ || th</span><br><span class="line">archives: /archives/ || archives</span><br><span class="line">#schedule: /schedule/ || calendar</span><br><span class="line">#sitemap: /sitemap.xml || sitemap</span><br><span class="line">#commonweal: /404/ || heartbeat</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
