@@ -6,7 +6,7 @@
   <link href="https://u-4862.github.io/atom.xml" rel="self"/>
   
   <link href="https://u-4862.github.io/"/>
-  <updated>2025-08-11T11:31:21.721Z</updated>
+  <updated>2025-10-03T07:22:53.831Z</updated>
   <id>https://u-4862.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一切重新开始的那一天</title>
+    <link href="https://u-4862.github.io/2025/10/03/%E4%B8%80%E5%88%87%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9/"/>
+    <id>https://u-4862.github.io/2025/10/03/%E4%B8%80%E5%88%87%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9/</id>
+    <published>2025-10-03T05:59:12.000Z</published>
+    <updated>2025-10-03T07:22:53.831Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写一点补充，精确地掌握输入"><a href="#写一点补充，精确地掌握输入" class="headerlink" title="::写一点补充，精确地掌握输入"></a>::写一点补充，精确地掌握输入</h1><p><code>git config --global http.proxy 127.0.0.1:your port</code></p><p><code>git config --global https.proxy 127.0.0.1:your port</code></p><h5 id="When-get-pull-goes-down"><a href="#When-get-pull-goes-down" class="headerlink" title="When get pull goes down:"></a>When <code>get pull</code> goes down:</h5><p><strong>fatal: refusing to merge unrelated histories</strong></p><p>Try to add <code>--allow-unrelated-histories</code></p><p>可能有用</p><p><a href="https://blog.csdn.net/qq_45677671/article/details/122574511">https://blog.csdn.net/qq_45677671/article/details/122574511</a></p><hr><h1 id="斐波那契的启示"><a href="#斐波那契的启示" class="headerlink" title="斐波那契的启示"></a>斐波那契的启示</h1><p>使用<code> fibonacci(n) =  fibonacci(n-1) + fibonacci(n-2)</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;写一点补充，精确地掌握输入&quot;&gt;&lt;a href=&quot;#写一点补充，精确地掌握输入&quot; class=&quot;headerlink&quot; title=&quot;::写一点补充，精确地掌握输入&quot;&gt;&lt;/a&gt;::写一点补充，精确地掌握输入&lt;/h1&gt;&lt;p&gt;&lt;code&gt;git config --glo</summary>
+      
+    
+    
+    
+    
+    <category term="我是" scheme="https://u-4862.github.io/tags/%E6%88%91%E6%98%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Makeups</title>
@@ -62,7 +84,7 @@
     <link href="https://u-4862.github.io/2025/08/09/hello-world/"/>
     <id>https://u-4862.github.io/2025/08/09/hello-world/</id>
     <published>2025-08-09T12:38:20.005Z</published>
-    <updated>2025-08-10T19:41:27.821Z</updated>
+    <updated>2025-08-17T09:27:41.258Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Controlled-Captain-Numb25"><a href="#Controlled-Captain-Numb25" class="headerlink" title="Controlled Captain Numb25"></a>Controlled Captain Numb25</h1><p><a href="https://space.bilibili.com/7706705" title="网友小z">阿梓我爱你，阿梓么么么</a></p>]]></content>
     
